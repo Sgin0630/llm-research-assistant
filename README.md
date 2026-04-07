@@ -21,6 +21,7 @@ chat with them using Claude (Anthropic). Built with Python, Streamlit, and the A
 - 🔍 Extracts and chunks PDF text for accurate context loading
 - 💡 Suggested questions to guide exploration
 - 🗑️ Clear conversation and load a new document anytime
+- 📊 Live token usage stats (message count + estimated context size) in the sidebar
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +59,9 @@ pip install -e .
 
 Create a `.env` file in the root folder:
 
+```bash
 ANTHROPIC_API_KEY=your_api_key_here
+```
 
 
 ### Run
@@ -70,14 +73,20 @@ PYTHONPATH=. streamlit run app.py
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 📁 Project Structure
+
+```
 llm-research-assistant/
 ├── src/
 │   ├── assistant.py      # Claude API integration & conversation management
 │   └── pdf_reader.py     # PDF text extraction and chunking
 ├── app.py                # Streamlit UI
 ├── tests/                # Unit tests
+├── Dockerfile
+├── docker-compose.yml
+├── setup.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 🔧 Development
 
