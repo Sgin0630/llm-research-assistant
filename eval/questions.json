@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the soft anomalous dimension for top quark pair production at NLO?",
+    "expected_arxiv": "2102.03256",
+    "expected_keywords": ["anomalous dimension", "soft", "NLO", "top quark"]
+  },
+  {
+    "question": "How does the DGLAP equation govern parton evolution?",
+    "expected_arxiv": "hep-ph/0409313",
+    "expected_keywords": ["DGLAP", "splitting function", "parton distribution"]
+  },
+  {
+    "question": "What is the BFKL equation and what does it describe?",
+    "expected_arxiv": "hep-ph/9805554",
+    "expected_keywords": ["BFKL", "pomeron", "small-x", "reggeization"]
+  },
+  {
+    "question": "How is the strong coupling constant measured at the Z pole?",
+    "expected_arxiv": "1209.1498",
+    "expected_keywords": ["alpha_s", "strong coupling", "Z boson", "LEP"]
+  },
+  {
+    "question": "What are the main features of the parton shower algorithm in Pythia?",
+    "expected_arxiv": "hep-ph/0308153",
+    "expected_keywords": ["parton shower", "Pythia", "Monte Carlo", "hadronization"]
+  },
+  {
+    "question": "Describe the Cabibbo-Kobayashi-Maskawa (CKM) matrix and its role in flavor physics.",
+    "expected_arxiv": "hep-ph/0603188",
+    "expected_keywords": ["CKM", "Cabibbo", "quark mixing", "CP violation"]
+  },
+  {
+    "question": "What is the hierarchy problem and how does supersymmetry address it?",
+    "expected_arxiv": "hep-ph/9709356",
+    "expected_keywords": ["hierarchy problem", "supersymmetry", "Higgs mass", "naturalness"]
+  },
+  {
+    "question": "How is the Higgs boson mass generated in the Standard Model via spontaneous symmetry breaking?",
+    "expected_arxiv": "hep-ph/0503172",
+    "expected_keywords": ["Higgs", "spontaneous symmetry breaking", "electroweak", "vacuum expectation value"]
+  },
+  {
+    "question": "What is the ATLAS detector and how does it detect particles at the LHC?",
+    "expected_arxiv": "0803.0565",
+    "expected_keywords": ["ATLAS", "detector", "calorimeter", "tracker", "LHC"]
+  },
+  {
+    "question": "Explain the concept of infrared safety in QCD calculations.",
+    "expected_arxiv": "hep-ph/9505323",
+    "expected_keywords": ["infrared safe", "collinear", "soft divergence", "jet"]
+  },
+  {
+    "question": "What is the anti-kT jet algorithm and how does it define jets?",
+    "expected_arxiv": "0802.1189",
+    "expected_keywords": ["anti-kT", "jet algorithm", "clustering", "radius parameter"]
+  },
+  {
+    "question": "How does lattice QCD calculate hadron masses from first principles?",
+    "expected_arxiv": "1203.5765",
+    "expected_keywords": ["lattice QCD", "hadron mass", "quark propagator", "gauge field"]
+  },
+  {
+    "question": "What is the role of renormalization group equations in quantum field theory?",
+    "expected_arxiv": "hep-th/0212049",
+    "expected_keywords": ["renormalization group", "running coupling", "beta function", "fixed point"]
+  },
+  {
+    "question": "How is dark matter produced thermally in the early universe (WIMP mechanism)?",
+    "expected_arxiv": "hep-ph/9506380",
+    "expected_keywords": ["WIMP", "dark matter", "freeze-out", "relic density"]
+  },
+  {
+    "question": "What is the operator product expansion (OPE) and how is it used in QCD sum rules?",
+    "expected_arxiv": "hep-ph/0011356",
+    "expected_keywords": ["OPE", "operator product expansion", "QCD sum rules", "condensate"]
+  },
+  {
+    "question": "Describe the W and Z boson production mechanism via the Drell-Yan process.",
+    "expected_arxiv": "hep-ph/0005275",
+    "expected_keywords": ["Drell-Yan", "W boson", "Z boson", "Drell-Yan cross section", "quark antiquark"]
+  },
+  {
+    "question": "What is the collinear factorization theorem in QCD?",
+    "expected_arxiv": "hep-ph/9605323",
+    "expected_keywords": ["collinear factorization", "parton distribution", "factorization theorem", "hard scattering"]
+  },
+  {
+    "question": "How does the Altarelli-Parisi splitting function describe quark and gluon evolution?",
+    "expected_arxiv": "hep-ph/0104145",
+    "expected_keywords": ["Altarelli-Parisi", "splitting function", "quark", "gluon", "evolution"]
+  },
+  {
+    "question": "What is the electroweak precision test and what constraints does it place on new physics?",
+    "expected_arxiv": "hep-ph/0509008",
+    "expected_keywords": ["electroweak precision", "oblique correction", "S parameter", "T parameter"]
+  },
+  {
+    "question": "Explain the concept of color confinement in QCD.",
+    "expected_arxiv": "hep-th/0206052",
+    "expected_keywords": ["color confinement", "gluon", "quark", "Wilson loop", "string tension"]
+  }
+]
