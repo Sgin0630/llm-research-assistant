@@ -36,7 +36,14 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 referencing==0.37.0
 requests==2.33.1
--e git+https://github.com/Sgin0630/llm-research-assistant.git@507356d3aea94f5c21a9c9afc79aecb9173bf9c4#egg=research_assistant
+# RAG upgrade dependencies
+arxiv
+pymupdf
+rank-bm25
+chromadb
+sentence-transformers
+fastapi
+uvicorn
 rpds-py==0.30.0
 setuptools==82.0.1
 six==1.17.0
